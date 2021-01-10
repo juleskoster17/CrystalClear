@@ -8,3 +8,6 @@ Who am I kidding? This bot is super easy to use! Just click the link in the desc
 Gimme a call or text and I'll boot him up or you can run it yourself by downloading the folder, node.js and visual studio code so you can open and edit the folder. 
 
 (if you need help with the last one just hit me up)
+
+
+Link: https://discord.com/api/oauth2/authorize?client_id=797610302760812544&permissions=8&scope=bot
